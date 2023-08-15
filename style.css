@@ -379,5 +379,11 @@ body {
     .rotating-text-wrapper {
       font-size: 0.7rem;
     }
+
+    #index .logo{
+        width: 70%;
+        margin-top: 9rem;
+        
+    }
   }
   
